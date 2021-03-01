@@ -15,4 +15,4 @@ const func = (num) => {
 ```
 6. 
 7. I am currently completing [HTMLAcademy](https://htmlacademy.ru/) free courses, [Git from A to Z](https://geekbrains.ru/certificates/1160471.en), starting to read the Grokking Algorithms and [learn.JS](learn.javascript.ru)
-
+8. I passed the [test](https://test.str.by/) for A2+ but according to my feelings my English lvl is slightly lower. 
